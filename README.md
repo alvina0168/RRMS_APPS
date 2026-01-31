@@ -4,8 +4,11 @@ The app reduces manual paperwork and provides an easy-to-use digital system for 
 
 # Technologies Used
 Language: Kotlin
+
 UI: Jetpack Compose
+
 Database: Room Database
+
 Architecture: MVVM (basic)
 
 # How It Works
